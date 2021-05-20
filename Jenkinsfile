@@ -11,7 +11,7 @@ pipline {
         {
             steps
             {
-                sh 'mvn --version'
+                bat 'set'
             }
         }
     }
